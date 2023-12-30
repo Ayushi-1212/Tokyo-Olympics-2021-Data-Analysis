@@ -23,5 +23,5 @@ Data Analysis of the Tokyo Olympics 2021 Based on the Data set Received from the
 
 ## Author
 
-- [@satyamshukla](https://github.com/Satyamshukla007901)
+- [@ayushi](https://github.com/Ayushi-1212)
 
